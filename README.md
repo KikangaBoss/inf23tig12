@@ -30,7 +30,7 @@ Within this area we decided to develop a project to make fitness training more t
 - Chapter n.1:  [Project Presentation](doc/c1.md)
 - Chapter n.2: [User Interface and Sitemap](doc/c2.md)
 - Chapter n.3: [Product](doc/c3.md)
-- Chapter n.4: [Presentation](doc/c4.md)
+
 
 # Team
 * [Carlos Quicanga](https://github.com/kikangaboss) A040804
